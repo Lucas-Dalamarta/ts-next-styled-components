@@ -1,5 +1,4 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
-import { display, width } from "@mui/system";
 import { useEffect, useState } from "react";
 import * as api from "../../api";
 
